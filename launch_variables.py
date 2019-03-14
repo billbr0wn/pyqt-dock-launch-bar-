@@ -1,0 +1,1 @@
+command_1_text = ('')icon_1_text = ('')command_2_text = ('')icon_2_text = ('')command_3_text = ('')icon_3_text = ('')command_4_text = ('')icon_4_text = ('')command_5_text = ('')icon_5_text = ('')command_6_text = ('')icon_6_text = ('')
