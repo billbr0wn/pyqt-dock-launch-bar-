@@ -121,7 +121,6 @@ class _Window_(QMainWindow):
 
 #<--------------- set Main Picture ----------------->#
 
-        #main_picture      = QPixmap ('//home//bill//Launch_bar//bg3.png')#<------pic and folder 675 x 1010 px
         main_picture      = QPixmap ('bg3.png')
         self.main_picture = main_picture
         main_label        = QLabel  (self)
